@@ -1,0 +1,22 @@
+{
+  "common": {
+    "welcome": "Bienvenido",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "dashboard": "Panel de Control"
+  },
+  "auth": {
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "login_success": "Inicio de sesión exitoso",
+    "login_failed": "Error al iniciar sesión"
+  },
+  "errors": {
+    "network": "Error de red. Por favor verifica tu conexión.",
+    "unauthorized": "Credenciales inválidas. Por favor intenta de nuevo.",
+    "forbidden": "No tienes permisos para acceder a este recurso.",
+    "validation": "Error de validación. Por favor verifica tu información.",
+    "server": "Error del servidor. Por favor intenta más tarde.",
+    "unknown": "Ocurrió un error inesperado."
+  }
+}
