@@ -104,8 +104,7 @@ VITE_API_BASE_URL=https://api.ejemplo.com
 npm run dev
 
 ```
-```
-1. Instalar el backend local
+```1. Instalar el backend local
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
