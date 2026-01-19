@@ -103,7 +103,13 @@ VITE_API_BASE_URL=https://api.ejemplo.com
 ```bash
 npm run dev
 ```
-
+1. Instalar el backend local
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
+# If requirements.txt doesn't exist, run:
+pip install "fastapi[standard]>=0.114.2" python-multipart email-validator "passlib[bcrypt]" tenacity pydantic emails jinja2 alembic httpx "psycopg[binary]" sqlmodel bcrypt==4.3.0 pydantic-settings "sentry-sdk[fastapi]" pyjwt
+python -m fastapi dev app/main.py
 ---
 
 ## Autenticación y Seguridad
