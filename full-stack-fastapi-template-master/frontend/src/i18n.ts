@@ -14,7 +14,7 @@ i18n
       escapeValue: false, // not needed for react as it escapes by default
     },
     backend: {
-      loadPath: "/locales/{{lng}}.json?v=1",
+      loadPath: "/assets/i18n/{{lng}}.json?v=1",
     },
   })
 
