@@ -77,7 +77,7 @@ src/
 
 ## Configuración del Proyecto
 
-1. Clonar el repositorio:
+5. Clonar el repositorio:
 
 ```bash
 git clone <url-del-repositorio>
