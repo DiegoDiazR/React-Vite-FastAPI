@@ -1,13 +1,4 @@
 # Proyecto Plataforma Web – Front-End React + FastAPI
-
-## Descripción General
-
-Este repositorio contiene la **base Front-End** de una plataforma web empresarial, diseñada para integrarse con un backend desarrollado en **FastAPI**. El objetivo del proyecto es proporcionar una arquitectura moderna, modular y segura que sirva como fundamento para el crecimiento progresivo de la aplicación.
-
-El enfoque principal está en **orden, mantenibilidad, seguridad base y buenas prácticas**, evitando complejidad innecesaria y permitiendo que futuros equipos amplíen el sistema de forma controlada.
-
----
-
 ## Stack Tecnológico
 
 ### Front-End
