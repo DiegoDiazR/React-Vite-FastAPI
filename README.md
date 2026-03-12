@@ -25,7 +25,7 @@
 
 ### Dashboard - CoreRisk Home
 
-[![Dashboard](img/dashboard.png)](#)
+
 
 ### Previsualización de Datos (Estilo Power Query)
 
