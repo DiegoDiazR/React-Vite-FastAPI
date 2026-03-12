@@ -1,12 +1,11 @@
 import { NavLink } from "react-router-dom"
 import { 
-  Home, Edit, Search, FileText, CalendarClock, 
+  Edit, Search, FileText, CalendarClock, 
   CalendarDays, Archive 
 } from "lucide-react"
 
 export const MiddleMenuSidebar = () => {
   const menuItems = [
-    { label: "Home", icon: Home, to: "/" },
     { label: "Recommended Proposals", icon: Edit, to: "/proposals" },
     { label: "Current Revisions", icon: Search, to: "/revisions" },
     { label: "Risk Analysis FC", icon: FileText, to: "/risk-fc", color: "text-blue-500" },

@@ -9,7 +9,7 @@ import {
 export const RibbonTopbar = () => {
   const [activeTab, setActiveTab] = useState("Components")
 
-  const tabs = ["Home", "Settings", "Tools", "Components", "Help"]
+  const tabs = ["Settings", "Tools", "Components", "Help"]
 
   const RibbonButton = ({ icon: Icon, label, disabled = false }: { icon: any, label: string, disabled?: boolean }) => (
     <button 
