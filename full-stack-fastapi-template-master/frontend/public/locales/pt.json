@@ -1,0 +1,40 @@
+{
+  "common": {
+    "welcome": "Bem-vindo",
+    "login": "Entrar",
+    "logout": "Sair",
+    "logout_disabled_dev": "Logout desativado em desenvolvimento",
+    "dashboard": "Painel",
+    "menu": "Menu"
+  },
+  "auth": {
+    "email": "E-mail",
+    "password": "Senha",
+    "login_success": "Login realizado com sucesso",
+    "login_failed": "Falha no login"
+  },
+  "errors": {
+    "network": "Erro de rede. Verifique sua conexão.",
+    "unauthorized": "Credenciais inválidas. Tente novamente.",
+    "forbidden": "Você não tem permissão para acessar este recurso.",
+    "validation": "Erro de validação. Verifique seus dados.",
+    "server": "Erro no servidor. Tente novamente mais tarde.",
+    "unknown": "Ocorreu um erro inesperado."
+  },
+  "dashboard": {
+    "welcome_message": "Bem-vindo ao seu painel. Esta é uma rota protegida.",
+    "example_form": "Formulário de Exemplo",
+    "email_label": "Endereço de E-mail",
+    "role_label": "Função",
+    "notifications_label": "Habilitar notificações",
+    "roles": {
+      "user": "Usuário",
+      "admin": "Administrador",
+      "editor": "Editor"
+    }
+  },
+  "actionPlans": {
+    "title": "Planos de Ação",
+    "description": "Gerencie seus planos de ação aqui."
+  }
+}
