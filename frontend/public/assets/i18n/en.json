@@ -1,0 +1,46 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "logout_disabled_dev": "Logout disabled in development",
+    "dashboard": "Analyzer",
+    "menu": "Menu",
+    "uploading": "Uploading...",
+    "remove_file": "Remove file"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login_success": "Login successful",
+    "login_failed": "Login failed"
+  },
+  "errors": {
+    "network": "Network error. Please check your connection.",
+    "unauthorized": "Invalid credentials. Please try again.",
+    "forbidden": "You don't have permission to access this resource.",
+    "validation": "Validation error. Please check your input.",
+    "server": "Server error. Please try again later.",
+    "unknown": "An unexpected error occurred."
+  },
+  "dashboard": {
+    "welcome_message": "Welcome to your dashboard. This is a protected route.",
+    "example_form": "Example Form",
+    "email_label": "Email Address",
+    "role_label": "Role",
+    "notifications_label": "Enable notifications",
+    "roles": {
+      "user": "User",
+      "admin": "Admin",
+      "editor": "Editor"
+    },
+    "upload_button": "Upload Excel File",
+    "no_file_selected": "No file selected",
+    "waiting_backend": "Waiting for response...",
+    "start_analysis": "Start Analysis",
+    "analysis_results": "Analysis Results",
+    "chart_distribution": "General Distribution",
+    "chart_performance": "Performance Metrics",
+    "chart_placeholder": "Chart Placeholder"
+  }
+}

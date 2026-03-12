@@ -1,0 +1,46 @@
+{
+  "common": {
+    "welcome": "Bienvenido",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "logout_disabled_dev": "Cierre de sesión deshabilitado en desarrollo",
+    "dashboard": "Analizador",
+    "menu": "Menú",
+    "uploading": "Subiendo...",
+    "remove_file": "Quitar archivo"
+  },
+  "auth": {
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "login_success": "Inicio de sesión exitoso",
+    "login_failed": "Error al iniciar sesión"
+  },
+  "errors": {
+    "network": "Error de red. Por favor verifica tu conexión.",
+    "unauthorized": "Credenciales inválidas. Por favor intenta de nuevo.",
+    "forbidden": "No tienes permisos para acceder a este recurso.",
+    "validation": "Error de validación. Por favor verifica tu información.",
+    "server": "Error del servidor. Por favor intenta más tarde.",
+    "unknown": "Ocurrió un error inesperado."
+  },
+  "dashboard": {
+    "welcome_message": "Bienvenido a tu panel. Esta es una ruta protegida.",
+    "example_form": "Formulario de Ejemplo",
+    "email_label": "Correo Electrónico",
+    "role_label": "Rol",
+    "notifications_label": "Habilitar notificaciones",
+    "roles": {
+      "user": "Usuario",
+      "admin": "Administrador",
+      "editor": "Editor"
+    },
+    "upload_button": "Cargar Archivo Excel",
+    "no_file_selected": "Ningún archivo seleccionado",
+    "waiting_backend": "Esperando respuesta...",
+    "start_analysis": "Comenzar Análisis",
+    "analysis_results": "Resultados del Análisis",
+    "chart_distribution": "Distribución General",
+    "chart_performance": "Métricas de Rendimiento",
+    "chart_placeholder": "Gráfico de Ejemplo"
+  }
+}

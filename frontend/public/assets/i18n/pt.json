@@ -1,0 +1,46 @@
+{
+  "common": {
+    "welcome": "Bem-vindo",
+    "login": "Entrar",
+    "logout": "Sair",
+    "logout_disabled_dev": "Logout desativado em desenvolvimento",
+    "dashboard": "Analisador",
+    "menu": "Menu",
+    "uploading": "Enviando...",
+    "remove_file": "Remover arquivo"
+  },
+  "auth": {
+    "email": "E-mail",
+    "password": "Senha",
+    "login_success": "Login realizado com sucesso",
+    "login_failed": "Falha no login"
+  },
+  "errors": {
+    "network": "Erro de rede. Verifique sua conexão.",
+    "unauthorized": "Credenciais inválidas. Tente novamente.",
+    "forbidden": "Você não tem permissão para acessar este recurso.",
+    "validation": "Erro de validação. Verifique seus dados.",
+    "server": "Erro no servidor. Tente novamente mais tarde.",
+    "unknown": "Ocorreu um erro inesperado."
+  },
+  "dashboard": {
+    "welcome_message": "Bem-vindo ao seu painel. Esta é uma rota protegida.",
+    "example_form": "Formulário de Exemplo",
+    "email_label": "Endereço de E-mail",
+    "role_label": "Função",
+    "notifications_label": "Habilitar notificações",
+    "roles": {
+      "user": "Usuário",
+      "admin": "Administrador",
+      "editor": "Editor"
+    },
+    "upload_button": "Carregar Arquivo Excel",
+    "no_file_selected": "Nenhum arquivo selecionado",
+    "waiting_backend": "Aguardando resposta...",
+    "start_analysis": "Iniciar Análise",
+    "analysis_results": "Resultados da Análise",
+    "chart_distribution": "Distribuição Geral",
+    "chart_performance": "Métricas de Desempenho",
+    "chart_placeholder": "Gráfico de Exemplo"
+  }
+}
